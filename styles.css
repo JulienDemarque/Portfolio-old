@@ -21,13 +21,13 @@ background-color: rgba(232, 218, 208, 0.8);
 }
 
 .about-page {
-	background-image: url("photos/pexels-photo.jpg");
+	background-image: url("Photos/pexels-photo.jpg");
 	background-size: cover;
 	min-height:100vh;
 }
 
 .porfolio-page{
-	background-image: url("photos/MacPhoto.jpeg");
+	background-image: url("Photos/MacPhoto.jpeg");
 	background-size: cover;
 }
 
@@ -74,7 +74,7 @@ h1{
 }
 
 .contact-page{
-	background-image: url("photos/MailBox.jpeg");
+	background-image: url("Photos/MailBox.jpeg");
 	background-size: cover;
 	height:100vh;
 }
